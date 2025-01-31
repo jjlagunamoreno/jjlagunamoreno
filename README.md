@@ -13,4 +13,4 @@
 
 ## 📫 Contacto
 🔗 [LinkedIn](https://www.linkedin.com/in/jaime-laguna-moreno/)  
-📧 Email: jjlagunamoreno@gmail.com
+📧 [Email](jjlagunamoreno@gmail.com)
