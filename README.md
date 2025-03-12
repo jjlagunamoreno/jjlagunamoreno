@@ -2,7 +2,7 @@
 
 💻 **Desarrollador Full Stack** con experiencia en **React, Angular, Vue** y backend en **Python y .NET**.  
 🚀 Apasionado por la tecnología, la optimización de sistemas y la automatización de procesos.  
-📡 Especializado en **EPGs, APIs y desarrollo de soluciones escalables**.  
+📡 Especializado en **EPGs, APIs, componentes webs y desarrollo de soluciones escalables**.  
 
 ---
 
