@@ -1,17 +1,28 @@
 # 👋 ¡Hola, soy Jaime!
 
 💻 **Desarrollador Full Stack** con experiencia en **React, Angular, Vue** y backend en **Python y .NET**.  
-🚀 Ex-miembro de **Covent Multimedia**, donde desarrollé soluciones web, gestioné servicios en la nube y optimicé procesos de automatización.  
-📡 Especializado en **EPGs, APIs y automatización de sistemas**.  
+🚀 Apasionado por la tecnología, la optimización de sistemas y la automatización de procesos.  
+📡 Especializado en **EPGs, APIs y desarrollo de soluciones escalables**.  
 
 ---
 
 ## 🏆 📊 Estadísticas de GitHub  
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjlagunamoreno&show_icons=true&theme=radical)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjlagunamoreno&layout=compact&theme=radical)  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjlagunamoreno&theme=radical)  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=jjlagunamoreno&show_icons=true&theme=radical" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjlagunamoreno&layout=compact&theme=radical" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjlagunamoreno&theme=radical" />
 
 </div>
 
@@ -23,6 +34,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
@@ -36,6 +48,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 
 ### ☁️ **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
@@ -54,7 +67,3 @@
 
 🔗 **LinkedIn**: [Jaime Laguna Moreno](https://www.linkedin.com/in/jaime-laguna-moreno/)  
 📧 **Email**: jjlagunamoreno@gmail.com  
-
----
-
-🎯 **"Codear no es solo escribir líneas de código, es solucionar problemas y construir el futuro."** 🚀  
