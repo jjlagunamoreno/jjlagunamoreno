@@ -7,11 +7,11 @@
 ---
 
 ## 🏆 Estadísticas de GitHub
-![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjlagunamoreno&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjlagunamoreno&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjlagunamoreno&theme=radical)
 
 ---
 
