@@ -21,7 +21,7 @@
 
   <br/>
 
-  ![GitHub Streak](https://raw.githubusercontent.com/jjlagunamoreno/jjlagunamoreno/main/streak-stats.png)
+  ![Estadísticas de GitHub de Jaime](https://github-readme-stats.vercel.app/api?username=jjlagunamoreno&show_icons=true&theme=dark&count_private=true)
 
 </div>
 
