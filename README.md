@@ -22,7 +22,7 @@
 
   <br/>
 
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=jjlagunamoreno&theme=radical)
+  <img src="https://streak-stats.demolab.com/?user=jjlagunamoreno&theme=radical" />
 
 </div>
 ---
