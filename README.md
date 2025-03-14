@@ -21,7 +21,7 @@
 
   <br/>
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jjlagunamoreno&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=jjlagunamoreno&theme=radical)
 
 </div>
 
