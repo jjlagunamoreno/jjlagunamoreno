@@ -22,8 +22,7 @@
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjlagunamoreno&theme=radical" />
-
+  <img src="https://streak-stats.demolab.com/?user=jjlagunamoreno&theme=radical" />
 </div>
 
 ---
