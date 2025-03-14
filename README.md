@@ -21,7 +21,7 @@
 
   <br/>
   
-  ![Racha de commits](https://github-readme-streak-stats.herokuapp.com/?user=jjlagunamoreno&theme=dark)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=jjlagunamoreno&DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
