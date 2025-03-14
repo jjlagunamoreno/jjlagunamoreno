@@ -5,7 +5,6 @@
 📡 Especializado en **EPGs, APIs, componentes webs y desarrollo de soluciones escalables**.  
 
 ---
-
 ## 🏆 📊 Estadísticas de GitHub  
 <div align="center">
   
@@ -22,9 +21,10 @@
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com/?user=jjlagunamoreno&theme=radical" />
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=jjlagunamoreno&theme=radical)
 
 </div>
+
 ---
 
 ## 🔧 🚀 Tecnologías y herramientas  
