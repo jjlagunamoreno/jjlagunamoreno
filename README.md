@@ -21,7 +21,7 @@
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com/?user=jjlagunamoreno&theme=radical)](https://git.io/streak-stats">
+  <img src="(https://streak-stats.demolab.com?user=jjlagunamoreno&theme=radical&hide_border=true&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)">
 [![GitHub Streak](https://streak-stats.demolab.com?user=jjlagunamoreno&theme=radical&hide_border=true&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 </div>
