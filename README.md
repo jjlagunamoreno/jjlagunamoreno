@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Jaime!
+# FULL-STACK DEVELOPER 
 
 💻 **Desarrollador Full Stack** con experiencia en frontend utilizando **React, Angular, Vue** y backend en **Python y .NET**.  
 🚀 Apasionado por la tecnología, la optimización de sistemas y la automatización de procesos.  
